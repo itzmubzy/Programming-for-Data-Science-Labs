@@ -1,0 +1,4 @@
+LAB-1/.pds/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
